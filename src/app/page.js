@@ -4,7 +4,7 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <main className={styles.main}>
-       <p>PT KMJ2</p>
+       <p>PT KANINDO MAKMUR JAYA 2</p>
     </main>
   );
 }
